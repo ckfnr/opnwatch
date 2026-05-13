@@ -1,1 +1,5 @@
 CAD_files/.history/
+watch_firmware/build/
+watch_firmware/*.o
+watch_firmware/*.elf
+watch_firmware/*.hex
