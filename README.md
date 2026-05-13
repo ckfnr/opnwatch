@@ -2,6 +2,14 @@
 
 **opnwatch** is an open-source wristwatch based on the ATmega328P microcontroller.
 
+### Revision 2 of the PCB
+
+![Revision 2 of the PCB](img/rev2.jpg)
+
+### Revision 1 of the PCB
+
+![Revision 1 of the PCB](img/rev1.png)
+
 ## Hardware
 
 | Component | Part |
@@ -17,6 +25,7 @@
 ```
 opnwatch/
 ├── CAD_files/        # KiCad schematic and PCB layout
+├── img/              # PCB and design images
 └── watch_firmware/   # AVR-GCC firmware
     └── lib/
         └── oled-display/   # Vendored OLED library
