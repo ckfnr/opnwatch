@@ -25,6 +25,8 @@
 ```
 opnwatch/
 ├── CAD_files/        # KiCad schematic and PCB layout
+    ├── rev2                # Revision 2 of the PCB
+    └── rev3                # Revision 3 of the PCB
 ├── img/              # PCB and design images
 └── watch_firmware/   # AVR-GCC firmware
     └── lib/
