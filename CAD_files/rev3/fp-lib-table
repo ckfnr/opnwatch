@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "wappen") (type "KiCad") (uri "C:/Users/cesar/Downloads/wappen") (options "") (descr ""))
+	(lib (name "debbie") (type "KiCad") (uri "/home/ckfnr/Documents/footprints&symbols/debbie") (options "") (descr ""))
+)
