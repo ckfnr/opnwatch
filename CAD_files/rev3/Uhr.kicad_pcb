@@ -16474,24 +16474,6 @@
 		(uuid "bd1e4b62-0758-4413-9147-8e5953b915d4")
 	)
 	(via
-		(at 44.366853 25.738695)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "BAT_POS")
-		(uuid "cebd6875-a04e-42ab-a493-e64682a554b9")
-	)
-	(via
 		(at 29.1 40.6)
 		(size 0.6)
 		(drill 0.3)
@@ -16548,14 +16530,6 @@
 		(uuid "66980c48-f67a-4307-81e6-ab6de3dbdd43")
 	)
 	(segment
-		(start 43.65 25.625)
-		(end 43.65 23)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "BAT_POS")
-		(uuid "66c097cb-c8f4-49e4-ab03-8385d79649bb")
-	)
-	(segment
 		(start 39.8 28.6)
 		(end 39.2 28)
 		(width 0.2)
@@ -16588,14 +16562,6 @@
 		(uuid "9dfbe7de-5544-439d-bdcb-338416e470f1")
 	)
 	(segment
-		(start 44.366853 25.738695)
-		(end 43.763695 25.738695)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "BAT_POS")
-		(uuid "ba6a6c37-306c-4fde-9220-bfa723ec5a76")
-	)
-	(segment
 		(start 39.8 32.7)
 		(end 39.8 28.6)
 		(width 0.2)
@@ -16618,14 +16584,6 @@
 		(layer "B.Cu")
 		(net "BAT_POS")
 		(uuid "da5d2037-554c-418a-a088-c5bb86918aaf")
-	)
-	(segment
-		(start 43.763695 25.738695)
-		(end 43.65 25.625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "BAT_POS")
-		(uuid "e194bc70-5e13-4ec5-9897-36e77887f862")
 	)
 	(segment
 		(start 40.45 20.15)
@@ -16958,7 +16916,7 @@
 	(zone
 		(net "GND")
 		(layers "F.Cu" "B.Cu")
-		(uuid "b7a9d623-f9d5-451c-a780-75cd851ba127")
+		(uuid "c4c9055e-ad5f-4adb-b7ec-fdf2b4db174a")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0.5)
@@ -16971,7 +16929,7 @@
 		)
 		(polygon
 			(pts
-				(xy 27.3 15) (xy 55.8 15) (xy 55.8 46) (xy 27.3 46)
+				(xy 55.8 46) (xy 55.8 15) (xy 27.3 15) (xy 27.3 46)
 			)
 		)
 		(filled_polygon
